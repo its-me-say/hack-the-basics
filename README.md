@@ -76,4 +76,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - SOC Automation Project
-- # Test-project https://github.com/its-me-say/hack-the-basics/edit/main/README.md
+- <a href="https://github.com/its-me-say/hack-the-basics/edit/main/README.md">Test-project</a>
